@@ -1,0 +1,54 @@
+html, body {
+	height: 100%;
+}
+
+.box {
+	height: 14.5%;
+	background: rgba(255,255,255,1)
+
+}
+
+.grey {
+	background: rgba(216, 216, 216,1);
+	z-index: 40;
+}
+
+.little-box {
+	background: rgb(74, 144, 226);
+	height: 10%;
+	width: 8%;
+	position: absolute;
+	z-index: 50;
+	margin-left: 1.4%;
+	margin-top: 1.5%;
+}
+
+.white-box {
+	height: 22%;
+	background: rgba(255,255,255,1);
+}
+
+.text {
+	font-family: Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 125%;
+	font-weight: lighter;
+	margin: 4%;
+	position: relative;
+}
+
+.blue {
+	background: rgb(74, 144, 226);
+}
+
+.seagreen {
+	background: rgb(80, 227, 194);
+}
+
+.lightgreen {
+	background: rgb(184, 233, 134);
+}
+
+.yellow {
+	background: rgb(248, 231, 28);
+}
